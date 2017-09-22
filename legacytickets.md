@@ -2,8 +2,7 @@
 layout: default
 title: Legacy Assembla Tickets
 --- 
-
-{% raw %}
+# Legacy Assembla Tickets
 
 ## #2 Define SparKit goals for the first 6 months
 * Get info from OCAIRO investigators: Using online survey. Managed mainly by Annie Hum.
@@ -4617,6 +4616,7 @@ The bibtex entry is as follows:
 
 
 ~~~~~
+{% raw %}
 @ARTICLE{Panchal2010,
    author = {{Panchal}, A. and {Keyes}, R.},
     title = '{SU-GG-T-260: Dicompyler: An Open Source Radiation Therapy Research Platform with a Plugin Architecture}',
@@ -4626,6 +4626,7 @@ The bibtex entry is as follows:
     pages = {3245},
       doi = {10.1118/1.3468652},
 }
+{% endraw %}
 ~~~~~
 
 Thanks,
@@ -43124,5 +43125,3 @@ Commit: r:3207|slicerrt:3207
 #### 2017-08-21, 14:38:46 - Csaba Pinter
 Re #868: Updated segment comparison test baseline due to change in Hausdorff calculation in Plastimatch
 Commit: r:3208|slicerrt:3208
-
-{% endraw %}
