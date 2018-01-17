@@ -12,11 +12,11 @@ layout: default
 <br><br>
 *   Open Extension Manager
 <br><br>
-![3D Slicer - Open Extension Manager](./images/ExtensionManager_Open.png)
+![3D Slicer - Open Extension Manager](https://github.com/SlicerRt/slicerrt.github.com/raw/master/images/ExtensionManager_Open.png)
 <br><br>
 *   Install SlicerRT
 <br><br>
-![3D Slicer - Extension Manager Browser](./images/ExtensionManager_ClickOnSlicerRT.png)
+![3D Slicer - Extension Manager Browser](https://github.com/SlicerRt/slicerrt.github.com/raw/master/images/ExtensionManager_ClickOnSlicerRT.png)
 
 # System requirements
 To run 3D Slicer you need the following configuration (SlicerRT extensions do not have any additional requirement):
