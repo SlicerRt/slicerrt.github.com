@@ -33,7 +33,7 @@ layout: default
 <br>
 
 # Funding sources for the SlicerRT project
-![Cancer Care Ontario](https://www.slicer.org/w/images/3/3f/LogoCco.png)      
-![CANARIE](https://www.slicer.org/w/images/f/f6/CANARIE_h_verysmall.png)      
-![OCAIRO](https://www.slicer.org/w/images/2/27/LogoOCAIRO.jpg)      
-![SparKit](https://www.slicer.org/w/images/8/88/Logo-SparKit.png)
+![Cancer Care Ontario](https://www.slicer.org/w/img_auth.php/3/3f/LogoCco.png)
+![CANARIE](https://www.slicer.org/w/img_auth.php/f/f6/CANARIE_h_verysmall.png)
+![OCAIRO](https://www.slicer.org/w/img_auth.php/2/27/LogoOCAIRO.jpg)
+![SparKit](https://www.slicer.org/w/img_auth.php/8/88/Logo-SparKit.png)
